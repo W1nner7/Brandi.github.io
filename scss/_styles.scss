@@ -222,13 +222,11 @@ li {
                 &.active {
                     border-top: 1px solid #32b0ee;
                     background: transparent;
-
                 }
 
                 &:hover {
                     border-top: 1px solid #32b0ee;
                     background: transparent;
-
                 }
             }
         }
@@ -577,7 +575,6 @@ li {
                         top: 5px;
 
                         & path {
-                            // stroke: ;
                             fill: $color-light;
                         }
                     }
@@ -823,7 +820,6 @@ li {
             margin: 0 0 40px;
             padding: 0;
             resize: none;
-            // height: 53px;
         }
 
         & input[type="submit"] {
